@@ -29,10 +29,10 @@ This project includes:
 
 ## 🚀 Live Streamlit App
 
-Try it here 👉 [your-live-app-link](https://your-streamlit-link.com)
+Try it here 👉 [your-live-app-link](https://shibam-maity-emailspamdetector-for-celebal.streamlit.app/)
 
 > Upload any `.txt` or `.pdf` email file and see the magic of AI detect spam!
-
+uplaod the test.csv in the app to get the predictions
 ---
 
 ## 💻 What I Did — My Contributions
@@ -131,11 +131,11 @@ streamlit run streamlit_app/app.py
 📤 Input Formats Supported
 
 
-.csv – Optional, for precomputed feature testing
+.csv
 
 👨‍💻 Author
 Shibam Maity
 Machine Learning Intern | AI for Healthcare Enthusiast | Open Source Contributor
 
 📫 Email: shibammaitymaity@gmail.com
-🔗 LinkedIn : https://www.linkedin.com/in/shibam-maity/
+🔗 Connect with me on [LinkedIn](https://linkedin.com/in/your-username)
