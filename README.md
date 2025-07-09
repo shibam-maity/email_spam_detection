@@ -138,4 +138,5 @@ Shibam Maity
 Machine Learning Intern | AI for Healthcare Enthusiast | Open Source Contributor
 
 📫 Email: shibammaitymaity@gmail.com
-🔗 Connect with me on [LinkedIn](https://linkedin.com/in/your-username)
+🔗 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shibam-maity/)
+
