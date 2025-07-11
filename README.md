@@ -73,35 +73,8 @@ uplaod the test.csv in the app to get the predictions
 
 ✅ Final model used in app: **Random Forest**
 
----
 
-## 🧪 Sample Predictions
-
-<p align="center">
-  <img src="https://your-csv-prediction-screenshot.png" width="600"/>
-</p>
-
----
-
-## 🗂 Project Structure
-
-email_spam_detection/
-├── data/
-│ ├── raw/ ← Original UCI data
-│ └── processed/ ← Cleaned CSV dataset
-├── models/ ← Trained models
-├── src/
-│ ├── data/ ← Preprocessing scripts
-│ ├── models/ ← Training scripts
-│ ├── evaluation/ ← Model comparison logic
-│ └── utils/ ← Feature extractor for email files
-├── streamlit_app/
-│ ├── app.py ← Streamlit UI
-│ └── requirements.txt
-
-yaml
-Copy
-Edit
+<pre> ## 🗂 Project Structure ```text email_spam_detection/ ├── data/ │ ├── raw/ ← Original UCI data │ └── processed/ ← Cleaned CSV dataset ├── models/ ← Trained models ├── src/ │ ├── data/ ← Preprocessing scripts │ ├── models/ ← Training scripts │ ├── evaluation/ ← Model comparison logic │ └── utils/ ← Feature extractor for email files ├── streamlit_app/ │ └── app.py ← Streamlit UI └── requirements.txt ``` </pre>
 
 ---
 
